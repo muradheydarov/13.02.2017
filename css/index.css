@@ -1,0 +1,14 @@
+.main{
+  width: 100%;
+  height: auto;
+}
+.main_item{
+  width: 33%;
+  height: auto;
+  float: left;
+}
+img{
+  width: 99%;
+  height: 100%;
+
+}
